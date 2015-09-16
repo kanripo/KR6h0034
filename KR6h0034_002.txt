@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:07:12.171109
+#+DATE: 2015-08-30 20:07:14.300472
 #+TITLE: 大集會正法經
 #+PROPERTY: CBETA_ID T13n0424
 #+PROPERTY: ID KR6h0034
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 424
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6h0034_T_000-0976c>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6h0034_T_002-0980a> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《佛說大集會正法經》卷第二¶
+《佛說大集會正法經》卷第二¶
 ¶
 西天譯經三藏朝奉大夫試鴻臚¶
 卿傳法大師臣施護奉　詔譯¶
