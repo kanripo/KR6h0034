@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:07:14.692441
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:21
 #+TITLE: 大集會正法經
 #+PROPERTY: CBETA_ID T13n0424
 #+PROPERTY: ID KR6h0034
@@ -403,9 +403,9 @@
 　佛善巧方便，
 　普令得解脫。¶
 　婆羅門外道，
-　咸得大利樂。」
+　咸得大利樂。」」
 #+END_VERSE
-」¶
+¶
 《佛說大集會正法經》卷第三
 <pb:KR6h0034_T_003-0988a>¶
 
